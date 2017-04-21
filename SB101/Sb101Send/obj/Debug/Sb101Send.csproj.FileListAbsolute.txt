@@ -1,0 +1,8 @@
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Send\bin\Debug\Sb101Send.exe.config
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Send\bin\Debug\Sb101Send.exe
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Send\bin\Debug\Sb101Send.pdb
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Send\bin\Debug\Microsoft.ServiceBus.dll
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Send\bin\Debug\Microsoft.ServiceBus.xml
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Send\obj\Debug\Sb101Send.csprojResolveAssemblyReference.cache
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Send\obj\Debug\Sb101Send.exe
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Send\obj\Debug\Sb101Send.pdb
