@@ -22,15 +22,15 @@ namespace Sb101Send
             _queueClient = QueueClient.CreateFromConnectionString(connectionString, queueName);
         }
 
-        public void Dispose()
-        {
-            _queueClient.Close();
-        }
-
         public void Send(string msgText)
         {
             var msg = new BrokeredMessage(msgText);
             _queueClient.Send(msg);
+        }
+
+        public void Dispose()
+        {
+            _queueClient.Close();
         }
     }
 }
