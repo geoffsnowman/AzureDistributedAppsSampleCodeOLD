@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SharedConstants;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,13 +9,12 @@ namespace Sb101Chat
 {
     class Program
     {
-        private const string CONNECTION_STR = "Endpoint=sb://gssbtest1.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=gXoKasqpjOtrVwel+4FKrG/N2BJ2JTHufqIeUHszv4Q=";
-        private const string TOPIC_NAME = "mytesttopic";
         static void Main(string[] args)
         {
             Console.WriteLine("What is your name?");
             string userName = Console.ReadLine();
-            using (ChatEngine chat = new ChatEngine(CONNECTION_STR, TOPIC_NAME, userName, DisplayMessage))
+            using (ChatEngine chat = new ChatEngine(Constants.CONNECTION_STR, Constants.TOPIC_NAME, 
+                userName, DisplayMessage))
             {
                 chat.Send(string.Format("(entered chat)", userName));
                 Console.WriteLine("Enter a message");

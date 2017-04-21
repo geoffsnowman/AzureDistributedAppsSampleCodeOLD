@@ -55,5 +55,11 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SharedConstants\SharedConstants.csproj">
+      <Project>{db52d0b8-bc42-4402-97bb-ab506a642c1f}</Project>
+      <Name>SharedConstants</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

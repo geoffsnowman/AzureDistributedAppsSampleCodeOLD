@@ -6,3 +6,6 @@ c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Chat\bin\Debug\M
 c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Chat\obj\Debug\Sb101Chat.csprojResolveAssemblyReference.cache
 c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Chat\obj\Debug\Sb101Chat.exe
 c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Chat\obj\Debug\Sb101Chat.pdb
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Chat\bin\Debug\SharedConstants.dll
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Chat\bin\Debug\SharedConstants.pdb
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\Sb101Chat\bin\Debug\SharedConstants.dll.config

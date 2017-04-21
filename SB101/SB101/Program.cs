@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SharedConstants;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,11 +9,9 @@ namespace SB101Rcv
 {
     class Program
     {
-        private const string CONNECTION_STR = "Endpoint=sb://gssbtest1.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=gXoKasqpjOtrVwel+4FKrG/N2BJ2JTHufqIeUHszv4Q=";
-        private const string QUEUE_NAME = "mytestqueue";
         static void Main(string[] args)
         {
-            using (MessageReceiver rcvr = new MessageReceiver(CONNECTION_STR, QUEUE_NAME))
+            using (MessageReceiver rcvr = new MessageReceiver(Constants.CONNECTION_STR, Constants.QUEUE_NAME))
             {
                 Console.WriteLine("Carriage return to exit.");
                 rcvr.StartReceiving(PrintMessage);

@@ -1,0 +1,5 @@
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\SharedConstants\bin\Debug\SharedConstants.dll.config
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\SharedConstants\bin\Debug\SharedConstants.dll
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\SharedConstants\bin\Debug\SharedConstants.pdb
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\SharedConstants\obj\Debug\SharedConstants.dll
+c:\Users\Geoff\documents\visual studio 2017\Projects\SB101\SharedConstants\obj\Debug\SharedConstants.pdb
