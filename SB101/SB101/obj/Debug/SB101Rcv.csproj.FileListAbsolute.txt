@@ -1,0 +1,11 @@
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\bin\Debug\SB101.exe.config
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\bin\Debug\SB101.exe
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\bin\Debug\SB101.pdb
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\obj\Debug\SB101.exe
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\obj\Debug\SB101.pdb
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\obj\Debug\SB101Rcv.csprojResolveAssemblyReference.cache
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\bin\Debug\SharedConstants.dll
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\bin\Debug\SharedConstants.pdb
+c:\users\geoff\documents\visual studio 2017\Projects\SB101\SB101\bin\Debug\SharedConstants.dll.config
