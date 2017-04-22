@@ -37,16 +37,16 @@ namespace EventHubRecv
                     context.CheckpointAsync();
                     Console.WriteLine("{0}: Partition {1} Processed {2} Messages", 
                         DateTime.Now,
-			context.Lease.PartitionId,
-			messages.Count<EventData>());
+			        context.Lease.PartitionId,
+			        messages.Count<EventData>());
                     messageCount = 0;
                 }
             }
             context.CheckpointAsync();
             Console.WriteLine("{0}: Partition {1} Processed {2} Messages", 
                 DateTime.Now,
-		context.Lease.PartitionId,
-		messages.Count<EventData>());
+		        context.Lease.PartitionId,
+		        messages.Count<EventData>());
             return Task.FromResult<object>(null);
         }
 
