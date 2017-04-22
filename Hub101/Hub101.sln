@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubSend", "EventHubSen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedConstants", "SharedConstants\SharedConstants.csproj", "{CA5FDC1E-2D68-4511-85BE-36586F4E1FAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubRecv", "EventHubRecv\EventHubRecv.csproj", "{000B52B3-6F0D-4D82-B578-D98D8B61DD74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CA5FDC1E-2D68-4511-85BE-36586F4E1FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA5FDC1E-2D68-4511-85BE-36586F4E1FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA5FDC1E-2D68-4511-85BE-36586F4E1FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000B52B3-6F0D-4D82-B578-D98D8B61DD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000B52B3-6F0D-4D82-B578-D98D8B61DD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000B52B3-6F0D-4D82-B578-D98D8B61DD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000B52B3-6F0D-4D82-B578-D98D8B61DD74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
