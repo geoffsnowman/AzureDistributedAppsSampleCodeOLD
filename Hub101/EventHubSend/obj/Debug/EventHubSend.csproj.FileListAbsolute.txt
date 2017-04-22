@@ -1,0 +1,12 @@
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\obj\Debug\EventHubSend.csprojResolveAssemblyReference.cache
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\bin\Debug\EventHubSend.exe.config
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\bin\Debug\EventHubSend.exe
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\bin\Debug\EventHubSend.pdb
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\bin\Debug\Newtonsoft.Json.dll
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\bin\Debug\SharedConstants.dll
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\bin\Debug\SharedConstants.pdb
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\bin\Debug\Newtonsoft.Json.xml
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\obj\Debug\EventHubSend.exe
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\EventHubSend\obj\Debug\EventHubSend.pdb

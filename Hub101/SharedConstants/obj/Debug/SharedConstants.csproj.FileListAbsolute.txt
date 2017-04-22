@@ -1,0 +1,4 @@
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\SharedConstants\bin\Debug\SharedConstants.dll
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\SharedConstants\bin\Debug\SharedConstants.pdb
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\SharedConstants\obj\Debug\SharedConstants.dll
+c:\users\geoff\documents\visual studio 2017\Projects\Hub101\SharedConstants\obj\Debug\SharedConstants.pdb
